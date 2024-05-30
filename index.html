@@ -19,7 +19,7 @@
                 <p class="Forgot-password">Forgot Password? <a href="https://accounts.google.com/v3/signin/challenge/pwd?TL=ALv_Gf-aljnP-fErRQBEUJZQzesqWTQdU-LkbF0NgXkqQiS7yMXiuhHF3PmMkxLx&cid=1&continue=https%3A%2F%2Fmyaccount.google.com%2Fsigninoptions%2Fpassword%3Fpli%3D1&flowName=GlifWebSignIn&hl=pt-BR&ifkv=AaSxoQyNjgjSEV9PDAIyidEXFwnwY3HOoSSCccbj_giJm3YxM43IRC6rl1a5FRFbJfcbUZIOZXmcOQ&kdi=CAM&rart=ANgoxceBAwVgScMdlzjD3689il5HPGo8Iij6qLHAemueUHrI0Ian35ZLU9frltGOhQCxRTmGx4-07cI1Gvn2CGW4NFPps8pWXgAsy1Mte7uIvY5f2rMFDhU&rpbg=1&sarp=1&scc=1&service=accountsettings" target="_blank">click here</a></p>
             </div><!---Fim semi-title-->
             <div class="complete-form">
-                <form>
+                <form onsubmit="enviarForm()">
                     <input type="Name" placeholder="E-meil o Username" required id="name">
                     <div class="icon-2"><img src="img/do-utilizador.png" alt="" width="15px"></div>
                     <br>
@@ -29,7 +29,7 @@
                     <br>
                     <br>
                 </div><!---Fim complete-form-->
-                <input type="submit" onclick="enviarForm()" value="Login to your account" class="button">
+                <input type="submit" value="Login to your account" class="button">
             </div><!---Fim corpo-->
                 </form>
            
