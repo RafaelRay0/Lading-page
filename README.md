@@ -1,4 +1,6 @@
 # lading-page
+<p>Projetinho de um landing page, onde simula um envio de formulario para cadastro.</p>
+<br>
 Projeto feito com:
 <br>
 <br>
@@ -6,4 +8,4 @@ Projeto feito com:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Logo-Css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-JavaScript" /> 
 <br>
-<p>link do projeto: <a href="https://rafaelray0.github.io/Lading-page/" target="blank">Click aqui</a></p>
+<p>link do projeto: <a href="https://rafaelray0.github.io/Lading-page/" target="_blank">Click aqui</a></p>
